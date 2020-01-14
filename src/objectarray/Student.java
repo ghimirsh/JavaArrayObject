@@ -3,7 +3,7 @@ package objectarray;
 public class Student {
     private int studentId;
     private String name;
-    priate String program;
+    private String program;
     public int getStudentId() {
         return studentId;
     }
